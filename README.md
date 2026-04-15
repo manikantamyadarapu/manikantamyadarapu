@@ -83,21 +83,25 @@ const skills = {
 ### 🎨 Fashion Designer Portfolio (Priyanka’s Atelier)
 
 🔗 https://github.com/manikantamyadarapu/priyankas-atelier
+🌐 Live Demo: https://priyankasatelier.in/
 
-![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-black)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
 
-* Developed a responsive **fashion designer portfolio website**
+* Developed a responsive **fashion designer portfolio website using Next.js**
 * Implemented **catalogue showcase & enquiry automation system**
 * Integrated dynamic UI for better user engagement
 * 📈 Improved client interaction and conversion rate
+
 
 ---
 
 ### 🏠 Studio Patron – Interior Design Website
 
 🔗 https://github.com/manikantamyadarapu/studio-patron
+🌐 Live Demo: https://www.studiopatron.in/
+
 
 ![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
 ![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
