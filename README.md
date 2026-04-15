@@ -82,7 +82,7 @@ const skills = {
 
 ### 🎨 Fashion Designer Portfolio (Priyanka’s Atelier)
 
-🔗 https://github.com/manikantamyadarapu/interior-design-platform
+🔗 https://github.com/manikantamyadarapu/priyankas-atelier
 
 ![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
