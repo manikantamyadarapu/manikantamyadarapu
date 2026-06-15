@@ -1,6 +1,6 @@
 # Hi, I'm Manikanta 👋
 
-🔥 Backend Developer | Built 100+ APIs | AI & Scalable Systems
+🔥 Backend Developer | Built 149+ APIs | AI & Scalable Systems
 🚀 Full Stack Developer | Backend & AI Systems
 💼 Built scalable enterprise applications & AI solutions
 📍 Hyderabad, India
