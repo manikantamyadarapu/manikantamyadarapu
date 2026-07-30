@@ -1,127 +1,170 @@
-# Hi, I'm Manikanta 👋
+<div align="center">
 
-🔥 Backend Developer | Built 149+ APIs | AI & Scalable Systems
-🚀 Full Stack Developer | Backend & AI Systems
-💼 Built scalable enterprise applications & AI solutions
-📍 Hyderabad, India
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manikantamyadarapu)
-![GitHub followers](https://img.shields.io/github/followers/manikantamyadarapu)
+# MANIKANTA MYADARAPU
 
----
+**Backend Engineer · Full Stack Developer · AI Systems**
 
-## 🚀 About Me
+<br>
 
-* 💻 1+ year experience in **backend engineering & AI systems**
-* 🏢 Worked on real-world **enterprise production systems**
-* ⚡ Designed & deployed **100+ REST APIs** (Node.js, Golang, PostgreSQL)
-* 🧠 Built **Multilingual AI Chatbot (MCET Buddy)** with NLP
-* 📈 Improved system performance by **35%** & reduced manual work by **60%**
-* 🤖 Experience in **ML pipelines, NLP, and production deployments**
+I build scalable backend systems, intelligent applications,<br>
+and digital products that solve real-world problems.
 
----
+<br>
 
-## 💼 Current Focus
+Hyderabad, India&nbsp;&nbsp;·&nbsp;&nbsp;1+ Year Experience&nbsp;&nbsp;·&nbsp;&nbsp;Open to Opportunities
 
-* Backend Development (Node.js, Golang)
-* System Design & Scalable APIs
-* AI-powered Applications
+<br>
 
----
+[**Portfolio**](https://manikantamyadarapu.github.io/portfolio)&nbsp;&nbsp;&nbsp;&nbsp;[**LinkedIn**](https://linkedin.com/in/manikanta-mayadarapu)&nbsp;&nbsp;&nbsp;&nbsp;[**Email**](mailto:mayadarapumanikanta@gmail.com)
 
-## 🛠 Tech Stack
+<br>
 
-```js
-const skills = {
-  backend: ["Node.js", "Express.js", "Golang", "Flask"],
-  frontend: ["React.js", "Next.js", "HTML", "CSS"],
-  database: ["PostgreSQL", "MongoDB"],
-  tools: ["Docker", "Git", "Prisma", "Postman"],
-  ai_ml: ["NLP", "Machine Learning", "Data Processing"]
-};
-```
+<sub>
+<img src="https://komarev.com/ghpvc/?username=manikantamyadarapu&label=Profile%20Views&color=222222&style=flat" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/manikantamyadarapu?label=Followers&style=flat&color=222222" alt="GitHub followers" />
+</sub>
 
----
+</div>
 
-## 🏆 Highlights
+<br><br>
 
-* 🚀 Built **enterprise backend systems** for 4+ platforms (Admin, GMR, NTPL, AMC)
-* 📊 Reduced system inefficiencies by **35%**
-* ⚡ Delivered **real-time dashboards & automation pipelines**
-* 🧠 Built multilingual chatbot improving accuracy by **70%**
+## About
 
----
+I build production-grade backend systems and design scalable REST APIs using Node.js, Golang and PostgreSQL. Alongside backend work, I develop AI and NLP applications, and bring experience working on enterprise production systems. I also build complete full-stack products end-to-end — from architecture to interface.
 
-## 🔥 Featured Projects
+<br>
 
-### 🤖 MCET Buddy – Multilingual AI Chatbot
+## Impact
 
-🔗 https://github.com/manikantamyadarapu/mcet-ai-chatbot
+<div align="center">
 
-![Flask](https://img.shields.io/badge/AI-Flask-orange)
-![Python](https://img.shields.io/badge/Language-Python-blue)
+|  |  |  |
+|:---:|:---:|:---:|
+| **149+** | **4+** | **35%** |
+| APIs Built | Enterprise Platforms | Performance Improvement |
+| **60%** | **Multilingual** | |
+| Manual Work Reduced | AI Systems | |
 
-* Built a production-ready chatbot supporting **English, Telugu, Hindi**
-* Implemented NLP-based intent recognition using Flask
-* 📈 Improved student query resolution by **70%**
+</div>
 
----
+<br>
 
-### 🏗 Enterprise-Scale Inventory Backend System
+## Tech Stack
 
-🔗 https://github.com/manikantamyadarapu/inventory-management-backend
+**Backend**
+<br>
+Node.js · Express.js · Golang · Flask
 
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+**Frontend**
+<br>
+React · Next.js · JavaScript · HTML · CSS
 
-* Designed and deployed **100+ REST APIs** using Node.js & PostgreSQL
-* Migrated monolith to **microservices architecture**
-* 📊 Reduced system conflicts by **40%** and improved performance by **35%**
+**Database**
+<br>
+PostgreSQL · MongoDB
 
----
+**Infrastructure / Tools**
+<br>
+Docker · Git · Prisma · Postman
 
-### 🎨 Fashion Designer Portfolio (Priyanka’s Atelier)
+**AI / ML**
+<br>
+Python · NLP · Machine Learning · Data Processing
 
-🔗 https://github.com/manikantamyadarapu/priyankas-atelier
-🌐 Live Demo: https://priyankasatelier.in/
+<br>
 
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-black)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
+## Selected Work
 
-* Developed a responsive **fashion designer portfolio website using Next.js**
-* Implemented **catalogue showcase & enquiry automation system**
-* Integrated dynamic UI for better user engagement
-* 📈 Improved client interaction and conversion rate
+<br>
 
+**01 — Enterprise Inventory Backend**
+<br>
+`Enterprise Backend · Microservices`
 
----
+Designed and deployed 100+ REST APIs for an enterprise-scale inventory platform.
 
-### 🏠 Studio Patron – Interior Design Website
+Node.js · PostgreSQL · REST APIs · Microservices
+&nbsp;&nbsp;|&nbsp;&nbsp; 35% performance improvement · 40% reduction in system conflicts
 
-🔗 https://github.com/manikantamyadarapu/studio-patron
-🌐 Live Demo: https://www.studiopatron.in/
+[Repository](https://github.com/manikantamyadarapu/inventory-management-backend)
 
+<br>
 
-![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
-![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
+**02 — MCET Buddy**
+<br>
+`AI · NLP`
 
-* Built full-stack interior platform with cost estimator
-* Automated enquiry handling reducing manual effort by **60%**
+Multilingual AI chatbot supporting English, Telugu and Hindi.
 
----
+Python · Flask · NLP
+&nbsp;&nbsp;|&nbsp;&nbsp; Improved student query resolution by 70%
 
-## 📈 GitHub Stats
+[Repository](https://github.com/manikantamyadarapu/mcet-ai-chatbot)
 
-![Streak](https://streak-stats.demolab.com?user=manikantamyadarapu&theme=tokyonight)
----
+<br>
 
-## 🤝 Connect With Me
+**03 — Priyanka's Atelier**
+<br>
+`Freelance · Full Stack`
 
-* 💼 LinkedIn: https://linkedin.com/in/manikanta-mayadarapu
-* 🌐 Portfolio: https://manikantamyadarapu.github.io/portfolio
-* 📧 Email: [mayadarapumanikanta@gmail.com](mailto:mayadarapumanikanta@gmail.com)
+Premium fashion designer portfolio and catalogue platform with enquiry automation.
 
----
+Next.js · JavaScript
 
-⚡ *“I build scalable systems that solve real-world problems.”*
+[Live Website](https://priyankasatelier.in/) · [Repository](https://github.com/manikantamyadarapu/priyankas-atelier)
+
+<br>
+
+**04 — Studio Patron**
+<br>
+`Freelance · Full Stack`
+
+Interior design platform with an interactive cost estimator and automated enquiry workflow.
+
+JavaScript · Full Stack
+&nbsp;&nbsp;|&nbsp;&nbsp; Reduced manual enquiry effort by 60%
+
+[Live Website](https://www.studiopatron.in/) · [Repository](https://github.com/manikantamyadarapu/studio-patron)
+
+<br>
+
+## Currently
+
+Building scalable backend systems
+<br>
+Exploring system design & distributed architectures
+<br>
+Developing AI-powered applications
+<br>
+Building freelance digital products
+
+<br>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikantamyadarapu&theme=github-dark&hide_border=true&background=0d1117&stroke=222222&ring=cccccc&fire=cccccc&currStreakLabel=cccccc" alt="GitHub streak" />
+
+</div>
+
+<br>
+
+## Let's Build Something.
+
+I'm interested in backend engineering, full-stack products, AI systems and interesting freelance collaborations.
+
+<br>
+
+[**LinkedIn**](https://linkedin.com/in/manikanta-mayadarapu)&nbsp;&nbsp;&nbsp;&nbsp;[**Portfolio**](https://manikantamyadarapu.github.io/portfolio)&nbsp;&nbsp;&nbsp;&nbsp;[**Email**](mailto:mayadarapumanikanta@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[**GitHub**](https://github.com/manikantamyadarapu)
+
+<br>
+
+<sub>Build systems. Solve problems. Create impact.</sub>
+
+<br>
+
+</div>
